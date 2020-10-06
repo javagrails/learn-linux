@@ -39,3 +39,22 @@ tags
 # Persistent undo
 [._]*.un~
 
+
+# STS-specific
+/.sts4-cache/*
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
+out/
+
+######################
+# Visual Studio Code
+######################
+.vscode/
