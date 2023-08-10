@@ -4,6 +4,6 @@
 # learn-linux
 ###### Learning Linux, Bash, Terminal, SH, Permission, Access, Role, Python
 
-###### A bit check
+###### A bit check updated
 
 [Basic Linux Task 1 with Solutions Step By Step](https://github.com/javagrails/learn-linux/blob/main/TASK1.md)
